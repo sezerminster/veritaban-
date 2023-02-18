@@ -1,0 +1,8 @@
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.AssemblyReference.cache
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.exe
+C:\Users\SEZER\Desktop\veritabanı\veritabanı\obj\Debug\veritabanı.pdb
